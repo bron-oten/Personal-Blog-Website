@@ -1,0 +1,20 @@
+a {
+ text-decoration: underline;
+
+}
+
+a:link {
+ color: #5A5766;
+}
+
+a:hover {
+ background: #9792E3;
+}
+
+a:active {
+ background: #48435C;
+}
+
+.link {
+ color: #48435C;
+}

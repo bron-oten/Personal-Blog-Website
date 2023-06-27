@@ -1,0 +1,52 @@
+@media (max-width: 775px) {
+ .cards {
+  width: 450px;
+  font-size: 1.1rem;
+ }
+}
+
+@media (min-width: 775px) {
+ h1 {
+  font-size: 3rem;
+ }
+} 
+
+@media (min-width: 901px) {
+ .main {
+  font-size: 1.5rem;
+  width: 100%;
+ }
+}
+
+/* @media screen and (max-width: 600px) and (orientation: portrait) {
+ .container {
+  width: auto;
+  height: auto;
+ }
+} */
+
+/* @media screen and (min-width: 601px) and (orientation: landscape) {
+ .container {
+  width: auto;
+  height: auto;
+ }
+} */ 
+
+/* @media only screen and (max-width: 767px) {
+ .content {
+  
+ }
+} */
+
+/* @media only screen and (min-width: 768px) and (max-width: 991px) {
+ /* CSS rules for mobile devices with a screen width between 768 and 991 pixels 
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+ /* CSS rules for mobile devices with a screen width between 992 and 1199 pixels 
+}
+
+@media only screen and (min-width: 1200px) {
+ /* CSS rules for mobile devices with a screen width of 1200 pixels or more 
+} */
+
